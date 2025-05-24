@@ -49,13 +49,13 @@ Apasionado por crear interfaces de usuario intuitivas y dinámicas. Cuento con e
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
     <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/christian-berti/" title="Perfil de Linkedin">
-			<img alt="Linkedin" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/xmetacrisisx" title="Perfil de Twitter">
-			<img alt="Twitter" src="https://img.icons8.com/doodle/48/twitter-squared.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://christianberti.github.io" title="Visitar Portfolio">
-			<img alt="Portfolio" src="https://img.icons8.com/doodle/48/portfolio.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:christiangberti@gmail.com" title="Enviar correo">
-			<img alt="Gmail" src="https://img.icons8.com/bubbles/50/gmail-new.png" ></a>
+        <a style="margin-left: 10px;"  target="_blank;" href="https://www.linkedin.com/in/christian-berti/" title="Perfil de Linkedin">
+		<img alt="Linkedin" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank;" href="https://twitter.com/xmetacrisisx" title="Perfil de Twitter">
+		<img alt="Twitter" src="https://img.icons8.com/doodle/48/twitter-squared.png" ></a>
+        <a style="margin-left: 10px;" target="_blank;" href="https://christianberti.github.io" title="Visitar Portfolio">
+		<img alt="Portfolio" src="https://img.icons8.com/doodle/48/portfolio.png" ></a>
+        <a style="margin-left: 10px;" target="_blank;" href="mailto:christiangberti@gmail.com" title="Enviar correo">
+		<img alt="Gmail" src="https://img.icons8.com/bubbles/50/gmail-new.png" ></a>
     </div>
 </p>
