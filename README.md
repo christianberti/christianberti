@@ -11,8 +11,8 @@ Estudiante de **Analista Programador Universitario** en la Universidad Nacional 
 Apasionado por crear interfaces de usuario intuitivas y dinámicas. Cuento con experiencia autodidacta en Javascript con **React**
 
 🌱 Actualmente profundizando mis conocimientos y desarrollando proyectos con:
-* ⚛️ React.js
-* 🔷 Typescript
+* ⚛️ React.js & JavaScript (ES6+)
+* 🔷 CSS / TailwindCss
 * 🟢 Node.js / Express.js
 
 ##
