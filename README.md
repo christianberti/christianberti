@@ -6,9 +6,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Estudiante de **Analista Programador Universitario** en la Universidad Nacional de La Plata (UNLP) 🎓, con un fuerte enfoque en el **desarrollo Frontend**.
+Estudiante de **Licenciatura en Informatica** en la Universidad Nacional de La Plata (UNLP) 🎓, con un fuerte enfoque en el **desarrollo Frontend**.
 <br>
-Apasionado por crear interfaces de usuario intuitivas y dinámicas. Cuento con experiencia autodidacta en Javascript con **React**
+Apasionado por crear interfaces de usuario intuitivas y dinámicas. Cuento con experiencia autodidacta en JavaScript con **React**
 
 🌱 Actualmente profundizando mis conocimientos y desarrollando proyectos con:
 * ⚛️ React.js & JavaScript (ES6+)
